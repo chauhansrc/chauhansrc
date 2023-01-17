@@ -1,4 +1,4 @@
-### Hi there, I’m Aseem.
+### Hi there, I’m Shubham Chauhan.
 
 - 👋 Welcome to my GitHub, I am student currently in Final Year of Electronics and Telecommunication with Honours in AI ML.
 - 👀 I’m interested in Machine/Deep Learning and Data Science.
@@ -21,11 +21,11 @@
 
 <img align="left" alt="Sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
-<img align="left" alt="Sklearn" width="40px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" />
 
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
 <br />
