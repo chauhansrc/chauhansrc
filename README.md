@@ -23,9 +23,6 @@
 
 <img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" />
 
-
-
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
 <br />
